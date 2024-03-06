@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mogbu/mlflow-test/mlruns/0/fc85ad99a1f34b6da48727d42be3d16d/artifacts
+end_time: 1709731532599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc85ad99a1f34b6da48727d42be3d16d
+run_name: placid-penguin-373
+run_uuid: fc85ad99a1f34b6da48727d42be3d16d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709731527363
+status: 3
+tags: []
+user_id: mogbu
